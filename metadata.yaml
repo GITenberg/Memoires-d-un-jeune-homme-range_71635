@@ -1,0 +1,32 @@
+_repo: Memoires-d-un-jeune-homme-range_71635
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bernard, Tristan
+    alias: Bernard, Paul
+    birthdate: 1866
+    deathdate: 1947
+    gutenberg_agent_id: '55824'
+    url: http://www.gutenberg.org/2009/agents/55824
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Tristan_Bernard
+    - https://fr.wikipedia.org/wiki/Tristan_Bernard
+description: ''
+gutenberg_issued: '2023-09-13'
+identifiers:
+  gutenberg: '71635'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k82677b
+pgterms:marc905: 20230614115447bernard
+pgterms:marc906: '1899'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bÉditions de la revue blanche, $c1899.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mémoires d'un jeune homme rangé
+url: http://www.gutenberg.org/ebooks/71635
